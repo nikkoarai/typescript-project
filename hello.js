@@ -1,8 +1,8 @@
 function hello()
 {
 
-var message:string="Hello World!";
+var message="Hello World!";
 
-document.getElementById("h").innerHTML = "message:string";
+document.getElementById("h").innerHTML = message;
 
 }

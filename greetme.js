@@ -1,5 +1,5 @@
 function greetme()
 {
-	var user="Nikko John";
+	var user="Jers";
 		alert("Hello, " + user);
 }
